@@ -19,7 +19,7 @@
 
 # 0120
 
-# 285C abc285_brutmhyhiizp    diff
+# 285C abc285_brutmhyhiizp    diff　157
 
 解答遷移 AC
 
@@ -35,6 +35,18 @@
 ➁ 別解
 
 26進数
+
+# 266B Modulo Number  diff  95
+
+解答遷移 AC
+
+計 05:49
+
+備考
+
+➀　思考
+
+x= N (mod) に気が付いてAC
 
 
 

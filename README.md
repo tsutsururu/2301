@@ -38,7 +38,12 @@
 
 その桁以下の文字列を考量する必要があるが、これは各桁の値を +1 することで実現が可能。1桁目はこの限りではないが、index揃えで +1 するので、すべての桁でこの処理を施せばよい。
 
-⇒ 類題 171C One Quadrillion and One Dalmatians
+類題 
+
+171C One Quadrillion and One Dalmatians (逆処理)
+
+216C Many balls (2進数 ver)
+
 
 
 # 266B Modulo Number  diff  95
